@@ -1,0 +1,12 @@
+################################################################################
+# Custom module created for [website] website.
+#
+# Module created by Topsitemakers.com
+# http://www.topsitemakers.com/
+################################################################################
+name: 'Blank custom module'
+type: 'module'
+description: 'Blank custom module.'
+package: 'Custom modules'
+core: 8.x
+version: '8.x-1.x-dev'
